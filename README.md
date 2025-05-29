@@ -1,1 +1,1 @@
-# QDA
+# QDA(Quake Detection Area)
